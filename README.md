@@ -8,6 +8,9 @@ Point any AI agent at any project and say *"document it with screenshots"* —
 the agent will run your app, capture its UI for real, and produce a vibrant,
 clean `README.md` that showcases it.
 
+**Follows the open skills spec, so it works with:** Claude Code · OpenCode ·
+Codex CLI · Cursor · Gemini CLI — anything that reads `SKILL.md`.
+
 Works with web apps, websites, static pages, browser extensions — and native
 projects on familiar ground for that platform:
 
